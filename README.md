@@ -1,6 +1,6 @@
 # Chapter 01
 
-| Problem Name                                                | Problems URL                        | Solution URL                                                       |
+| Problem Name                                                | Problem URL                        | Solution URL                                                       |
 |-------------------------------------------------------------|-------------------------------------|--------------------------------------------------------------------|
 | Compute the Number of Times a Pattern Appears in a Text     | http://rosalind.info/problems/ba1a/ | https://github.com/Rajan-sust/ROSALIND/blob/master/chapter01/1a.py |
 | Find the Most Frequent Words in a String                    | http://rosalind.info/problems/ba1b/ | https://github.com/Rajan-sust/ROSALIND/blob/master/chapter01/1b.py |
